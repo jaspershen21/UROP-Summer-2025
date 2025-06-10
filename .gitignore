@@ -3,6 +3,7 @@ kieranFeatures*.csv
 Images/
 Data by Sensor/
 *.pkl
+NeuroGPT/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
